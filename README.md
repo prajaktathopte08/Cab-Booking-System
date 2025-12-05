@@ -116,5 +116,5 @@ Through structured tables and analytical SQL queries, the system enables:
 ## 🙌 **Acknowledgment**
 
 Thank you for exploring this project!
-Feel free to clone, fork, improve, or use it for learning and portfolio building.
+Feel free to clone, fork, improve, or use it for learning...
 
